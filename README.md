@@ -8,7 +8,7 @@
 - [Arduino LED Blink](https://github.com/rvsreevarshini/Arduino_-_Led-Blink-)  
 - [Water Level Detection System](https://github.com/rvsreevarshini/Water-Level-Detection)  
 - [Temperature & Humidity Monitoring](https://github.com/rvsreevarshini/Temp-Humidity-Monitoring)
-- - [IoT Based Weather Station](https://github.com/rvsreevarshini/IOT-based-wheather-station)
+- [IoT Based Weather Station](https://github.com/rvsreevarshini/IOT-based-wheather-station)
 
 ## 🌱 About Me  
 - Learning embedded systems and exploring circuit design  
