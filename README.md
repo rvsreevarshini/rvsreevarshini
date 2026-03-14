@@ -9,7 +9,7 @@
 - [Water Level Detection System](https://github.com/rvsreevarshini/Water-Level-Detection)  
 - [Temperature & Humidity Monitoring](https://github.com/rvsreevarshini/Temp-Humidity-Monitoring)
 - [IoT Based Weather Station](https://github.com/rvsreevarshini/IOT-based-wheather-station)
-- - [Automatic medicine dispenser with alert system](https://github.com/rvsreevarshini/Automatic-medicine-dispenser-with-alert-system)
+- [Automatic medicine dispenser with alert system](https://github.com/rvsreevarshini/Automatic-medicine-dispenser-with-alert-system)
 
 ## 🌱 About Me  
 - Learning embedded systems and exploring circuit design  
