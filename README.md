@@ -10,6 +10,7 @@
 - [Temperature & Humidity Monitoring](https://github.com/rvsreevarshini/Temp-Humidity-Monitoring)
 - [IoT Based Weather Station](https://github.com/rvsreevarshini/IOT-based-wheather-station)
 - [Automatic medicine dispenser with alert system](https://github.com/rvsreevarshini/Automatic-medicine-dispenser-with-alert-system)
+- [Fullwave rectifier PCB design using kicad](https://github.com/rvsreevarshini/Fullwave-rectifier-PCB-Design-kicad)
 
 ## 🌱 About Me  
 - Learning embedded systems and exploring circuit design  
